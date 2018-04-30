@@ -9,7 +9,7 @@ This set of lessons will walk you through the basics of datetime, starting with 
 
 A super basic day to get you started. Watch *Learning datetime and date* and *Calculating time with datetime timedelta*.
 
-After watching the videos, use your Python shell to play around with some timestamp calculations as per the content in the videos. 
+After watching the videos, use your Python shell to play around with some timestamp calculations as  per the content in the videos.
 
 
 ## Day N+1: Bites of Py Bite 7 - Parsing dates from logs
@@ -36,7 +36,7 @@ This could also be applied to a stopwatch app. Use time of course but also throw
 
 ### Time to share what you've accomplished!
 
-Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**. 
+Be sure to share your last couple of days work on Twitter or Facebook. Use the hashtag **#100DaysOfCode**.
 
 Here are [some examples](https://twitter.com/search?q=%23100DaysOfCode) to inspire you. Consider including [@talkpython](https://twitter.com/talkpython) and [@pybites](https://twitter.com/pybites) in your tweets.
 
